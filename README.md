@@ -25,3 +25,5 @@ The objective of Countdown Timer is to provide a continuously decrementing displ
 - User can specify more than one event.
 
 - User can see a countdown timers for each event that has been defined.
+
+Originally idea from : https://blog.bitsrc.io/15-app-ideas-to-build-and-level-up-your-coding-skills-28612c72a3b1
